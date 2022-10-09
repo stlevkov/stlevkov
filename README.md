@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-<!--
-**stlevkov/stlevkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Matter Protocol Integration (CHIP)
+- 🔭 I’m currently working on Matter Protocol (CHIP) Integration
 - 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-StoychoLevkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoycho-levkov/)](https://www.linkedin.com/in/stoycho-levkov//)
 - ⚡ Fun fact: PCB Design is like playing with puzzle :)
--->
 
 ---
 
