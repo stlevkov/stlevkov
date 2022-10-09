@@ -21,4 +21,4 @@
 &nbsp;
 
 ---
-![](https://komarev.com/ghpvc/?username=stlevkov&color=orange)
+![](https://komarev.com/ghpvc/?username=stlevkov&color=orange&style=plastic)
