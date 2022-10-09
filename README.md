@@ -30,13 +30,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" **alt="Intellij" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" **alt="gcc" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" **alt="raspberrypi" width="40" height="40"/>&nbsp;  
   <img src="https://avatars.githubusercontent.com/u/3494069?s=200&v=4" title="Prime" alt="Prime" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp; 
-  <img src="https://www.onvif.org/wp-content/themes/onvif-public/images/logo.png" title="Onvif"  alt="Onvif" width="100" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Matter_logo.jpg" title="Matter"  alt="Matter" width="100" height="40"/>&nbsp;
+  <img src="https://www.onvif.org/wp-content/themes/onvif-public/images/logo.png" title="Onvif"  alt="Onvif" width="auto" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Matter_logo.jpg" title="Matter"  alt="Matter" width="auto" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/9460735?s=280&v=4" title="ESP32"  alt="ESP32" width="40" height="40"/>&nbsp;
   
 </div>
