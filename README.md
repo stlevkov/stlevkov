@@ -6,7 +6,7 @@
 
 ---
 
-### :hammer_and_wrench: Main Languages :
+### :hammer_and_wrench: Main Language
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -14,7 +14,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages I have a touch with :
+### :hammer_and_wrench: Languages I have a touch with
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Frameworks :
+### :hammer_and_wrench: Frameworks
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; 
@@ -36,7 +36,7 @@
 
 ---
 
-### :hammer_and_wrench: Tools : 
+### :hammer_and_wrench: Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@
 
 ---
 
-### :hammer_and_wrench: DB : 
+### :hammer_and_wrench: DB
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
