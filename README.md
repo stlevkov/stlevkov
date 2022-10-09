@@ -38,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp; 
   <img src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png" title="KiCAD"  alt="KiCAD" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/9460735?s=280&v=4" title="ESP32"  alt="ESP32" width="40" height="40"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/QK5qOLm7rFF8GQROiI-_jw7WeoYl8rtT-SY9xB6zZD7y-tVyFFG4dicqmjen07ZzW4rL" title="nRFConnect"  alt="nRFConnect" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Matter_logo.jpg" title="Matter"  alt="Matter" width="auto" height="40"/>&nbsp;
 </div>
 &nbsp;
