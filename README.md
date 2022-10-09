@@ -36,10 +36,10 @@
   <img src="https://avatars.githubusercontent.com/u/3494069?s=200&v=4" title="Prime" alt="Prime" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp; 
+  <img src="https://user-images.githubusercontent.com/352202/53980744-60746100-4111-11e9-9f8c-17ca6b50efd8.png" title="KiCAD"  alt="KiCAD" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/9460735?s=280&v=4" title="ESP32"  alt="ESP32" width="40" height="40"/>&nbsp;
   <img src="https://www.onvif.org/wp-content/themes/onvif-public/images/logo.png" title="Onvif"  alt="Onvif" width="auto" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Matter_logo.jpg" title="Matter"  alt="Matter" width="auto" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/9460735?s=280&v=4" title="ESP32"  alt="ESP32" width="40" height="40"/>&nbsp;
-  
 </div>
 &nbsp;
 
