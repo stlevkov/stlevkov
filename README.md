@@ -52,8 +52,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" **alt="raspberrypi" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/3494069?s=200&v=4" title="Prime" alt="Prime" width="40" height="40"/>&nbsp;
 </div>
 
