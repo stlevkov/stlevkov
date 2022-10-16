@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DIY Edge Devices Monitoring System
+- 🔭 I’m currently working on DIY Edge Devices Monitoring System, Budget Less Spend App and Smart Bird House projects. Repos will be updated soon.
 - 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-StoychoLevkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoycho-levkov/)](https://www.linkedin.com/in/stoycho-levkov//)
 - ⚡ Fun fact: PCB Design is like playing with puzzle :)
 
