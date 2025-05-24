@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 A simple maker here, who write a lot of code, but only less of it is shared.
+- 🔭 Sometimes the most intelligent apps are built with less possible and simple code
 - 📫 How to reach me: [![Linkedin: thaianebraga](https://img.shields.io/badge/-StoychoLevkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stoycho-levkov/)](https://www.linkedin.com/in/stoycho-levkov//)
 - ⚡ Fun fact: Arranging tracks in the PCB Design is like playing with puzzle
 
